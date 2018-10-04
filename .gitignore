@@ -1,0 +1,11 @@
+# Ignore shared data
+share
+
+# Ignore bytecode
+*.pyc
+*.pyo
+
+# Ignore build & install data
+build
+*.egg-info
+dist
